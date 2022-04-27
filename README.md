@@ -10,3 +10,5 @@ I also just learned about Git basics and in the CLI
 Apr 27 12:19
 I have finished the project
 I utilized the img tags, p tags, lists tags when I performed the task.
+
+added a reflection in my readme.me
